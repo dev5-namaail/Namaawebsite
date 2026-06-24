@@ -22,3 +22,7 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+
+# Saved webpage exports
+src/assets/Digitilization.html
+src/assets/Digitilization_files/
